@@ -4,6 +4,7 @@ import Navbar from './Navbar/Navbar'
 import {BrowserRouter, Route} from 'react-router-dom'
 import Projects from './Projects/Projects';
 import MySkills from './MySkills/MySkills';
+import './App.css'
 class App extends React.Component {
 
 
