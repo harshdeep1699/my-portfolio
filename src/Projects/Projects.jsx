@@ -1,15 +1,11 @@
 import ProjectCard from "./ProjectCard"
 import projectArray from "./ProjectList"
-
+import './projects.css'
 
 
 const projects=()=>{
     return(
-        <div>
-            <center>Have been working on the following projects</center>
-            <br></br>
-            <br></br>
-            <br></br>
+        <div className='projects'>
             {projectArray.map(ele=>{
                 return <ProjectCard name={ele.name} path={ele.path}></ProjectCard>
             })}

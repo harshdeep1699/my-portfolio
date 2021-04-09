@@ -1,0 +1,28 @@
+.skill-card{
+    margin: 20px auto;
+    display: inline-block;
+}
+.header{
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    left:50%
+}
+.skillImage{
+   height: 20%;
+   width: 20%;
+   display: inline-block;
+   float: left;
+}
+.skillDesc{
+    display: inline-block;
+    width: 80%;
+    position: absolute;
+    top: 47%;
+}
+.skillCaption{
+    height: 20%;
+    width: 20%;
+    text-align: center;
+   
+}

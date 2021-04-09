@@ -1,17 +1,14 @@
 import './MySkills.css'
+import SkillCard from './SkillCard'
 import skillList from './SkillList'
 
 
 const mySkills=()=>{
     return(
         <div className="container">
-            My skills include:
-            <ul>
-            {skillList.map(skill=>{
-                return <li>{skill}</li>
+            {skillList.map((skill,index)=>{
+                return <SkillCard skill={skill} index={index}></SkillCard>
             })}
-            </ul>
-        
         </div>
     )
 }

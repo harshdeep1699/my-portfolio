@@ -1,15 +1,44 @@
-.intro-text{
-    text-align: center;
+.carousAndText{
+    position: relative;
+}
+.carous{
+    margin-top: 61.2px;
+}
+.carousText{
+    position: absolute;
+    top: 50%;
+    left: 27%;
+    color: white;
+    font-family:Helvetica;
+    font-size: 4em;
+}
+.d-block{
+    max-height: 700px;
+}
+.intro{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-block;
+    position: relative;
 }
 .myPic{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10px;
+   height: 20%;
+   width: 20%;
+   float: left;
+   display: inline-block;
 }
-.myPic1{
+.introText{
+    position:absolute;
+    text-align: center;
+    top: 50%;
     display: inline-block;
-    margin: 10px;
-    max-width: 900px;
-    max-height: 450px;
+    width: 80%;
+    font-size: 2.3em;
+}
+.details{
+    margin-bottom: 0px;
+   }
+
+.detailsText{
+    margin-bottom: 0px;
 }
