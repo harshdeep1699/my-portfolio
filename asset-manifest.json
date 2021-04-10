@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-portfolionpm%20install%20--save%20gh-pages/static/css/main.9cc35fdb.chunk.css",
+    "main.js": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/main.ac011739.chunk.js",
+    "main.js.map": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/main.ac011739.chunk.js.map",
+    "runtime-main.js": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/runtime-main.76f06e89.js",
+    "runtime-main.js.map": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/runtime-main.76f06e89.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/my-portfolionpm%20install%20--save%20gh-pages/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c0a1a7d7.chunk.js": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/2.c0a1a7d7.chunk.js",
+    "static/js/2.c0a1a7d7.chunk.js.map": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/2.c0a1a7d7.chunk.js.map",
+    "static/js/3.d4303d0f.chunk.js": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/3.d4303d0f.chunk.js",
+    "static/js/3.d4303d0f.chunk.js.map": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/3.d4303d0f.chunk.js.map",
+    "index.html": "/my-portfolionpm%20install%20--save%20gh-pages/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/my-portfolionpm%20install%20--save%20gh-pages/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9cc35fdb.chunk.css.map": "/my-portfolionpm%20install%20--save%20gh-pages/static/css/main.9cc35fdb.chunk.css.map",
+    "static/js/2.c0a1a7d7.chunk.js.LICENSE.txt": "/my-portfolionpm%20install%20--save%20gh-pages/static/js/2.c0a1a7d7.chunk.js.LICENSE.txt",
+    "static/media/java.3ff5f585.png": "/my-portfolionpm%20install%20--save%20gh-pages/static/media/java.3ff5f585.png",
+    "static/media/linkedin.59b83b57.png": "/my-portfolionpm%20install%20--save%20gh-pages/static/media/linkedin.59b83b57.png",
+    "static/media/myPic.0f6be925.png": "/my-portfolionpm%20install%20--save%20gh-pages/static/media/myPic.0f6be925.png",
+    "static/media/pic1.3948ef0a.JPG": "/my-portfolionpm%20install%20--save%20gh-pages/static/media/pic1.3948ef0a.JPG",
+    "static/media/pic2.99dd05fb.JPG": "/my-portfolionpm%20install%20--save%20gh-pages/static/media/pic2.99dd05fb.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f06e89.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c0a1a7d7.chunk.js",
+    "static/css/main.9cc35fdb.chunk.css",
+    "static/js/main.ac011739.chunk.js"
+  ]
+}
