@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://harshdeep1699.github.io/my-portfolionpm install --save gh-pages",
+  "homepage": "https://harshdeep1699.github.io/my-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

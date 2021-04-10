@@ -10,9 +10,9 @@ const navbar= (props)=>{
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
-                <Link className='nav-links' to={{pathname:'/'}}>About Me</Link>
-                <Link className='nav-links' to={{pathname:'/myskills'}} >Technical Skills</Link>
-                <Link className='nav-links' to={{pathname:'/myprojects'}}>My Projects</Link>    
+                <Link className='nav-links' to={{pathname:'/my-portfolio/'}}>About Me</Link>
+                <Link className='nav-links' to={{pathname:'/my-portfolio/myskills'}} >Technical Skills</Link>
+                <Link className='nav-links' to={{pathname:'/my-portfolio/myprojects'}}>My Projects</Link>    
                 </Nav>
               </Navbar.Collapse>
             </Navbar>
