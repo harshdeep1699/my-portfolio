@@ -1,28 +1,18 @@
+
 .skill-card{
-    margin: 20px auto;
-    display: inline-block;
-}
-.header{
-    display: inline-block;
-    position: relative;
+    margin-top: 60px;
+    padding: 10px;
     width: 100%;
-    left:50%
+    border:black 1px solid;
+    border-radius: 8px;
+
 }
 .skillImage{
-   height: 20%;
-   width: 20%;
-   display: inline-block;
-   float: left;
+    height: 10%;
+    width: 10%;
+
 }
 .skillDesc{
     display: inline-block;
-    width: 80%;
-    position: absolute;
-    top: 47%;
-}
-.skillCaption{
-    height: 20%;
-    width: 20%;
-    text-align: center;
-   
+
 }

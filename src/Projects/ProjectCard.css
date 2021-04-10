@@ -5,7 +5,6 @@
     margin-left:50px;
     margin-top: 20px;
     border: black solid 1px;
-    padding:10px
 }
 .cardblock:hover{
     transform: scale(1.05);
@@ -14,12 +13,10 @@
 }
 
 .imgofproj{
-    max-width: 475px;
-    max-height: 190px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 
+    display: block;
+    height: 100%;
+    width: 100%;
 }
 .projname{
     text-align: center;

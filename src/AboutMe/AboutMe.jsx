@@ -59,7 +59,7 @@ const aboutMe= ()=>{
                like Machine Learning, Operating Systems, Cryptography, Computer Networks and many more.
             </li>
             <li className='desc'>
-              I have created projects on using the following:
+              I have created projects using the following:
               <ul>
               <li className='desc'>
               React.js

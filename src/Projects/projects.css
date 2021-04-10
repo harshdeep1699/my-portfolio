@@ -1,3 +1,6 @@
+html, body, body > div{
+    height: 100%;
+  }
 .projects{
-    margin-top: 56px;
+    margin-top: 60px;    
 }
