@@ -5,9 +5,9 @@ import skillList from './SkillList'
 
 const mySkills=()=>{
     return(
-        <div className="container">
+        <div className="myskillPage">
             {skillList.map((skill,index)=>{
-                return <SkillCard skill={skill} index={index}></SkillCard>
+                return <SkillCard key={index} skill={skill} index={index}></SkillCard>
             })}
         </div>
     )
