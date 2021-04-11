@@ -1,31 +1,36 @@
 .carousAndText{
-    position: relative;
+
 }
 .carous{
-    margin-top: 61.2px;
+    margin-top: 3.5rem;
+}
+.d-block{
+    height: 40rem;
 }
 .carousText{
     position: absolute;
-    top: 50%;
-    left: 36%;
-    color: white;
+    top:24rem;
+    left:29rem;
+    background-color: #276678;
+    opacity: 0.8;
+    width:40%;
+    color: #f6f5f5;
+    text-align: center;
+    font-size: 4rem;
     font-family:Helvetica;
-    font-size: 4em;
-    border:3px solid #1687a7;
-    padding:2px;
-}
-.d-block{
-    max-height: 700px;
+    border:0.2rem solid #f6f5f5;
+    padding:0.1rem;
 }
 .intro{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     display: inline-block;
     position: relative;
 }
 .intro hr{
-    border: 2px solid #1687a7;
+    border: 0.125rem solid #1687a7;
     width:7%;
+    vertical-align: bottom;
 }
 .myPic{
    height: 15%;
@@ -39,66 +44,66 @@
     top: 50%;
     display: inline-block;
     width: 80%;
-    font-size: 30px;
+    font-size: 2.1rem;
 }
 .detailsText{
-    margin-bottom: 0px;
+    margin-bottom: 0rem;
 }
 .aboutMe{
     display: block;
     width: 80%;
-    margin-top: 40px;
-    margin-bottom: 100px;
+    margin-top: 2.5rem;
+    margin-bottom: 6.25rem;
     margin-left: auto;
     margin-right: auto;
 
 }
 .aboutMe .title{
     text-align: center;
-    font-size: 40px;
+    font-size: 2.5rem;
     background-color: #f6f5f5;
-    width:15%;
+    width:25%;
     margin: 0 auto;
-    border-radius: 20px;
+    border-radius: 1.25rem;
 }
 
 .aboutMe .desc{
-    font-size: 25px;
+    font-size: 1.5625rem;
     text-align: left;
     width:56%;
-    margin: 20px auto;
+    margin: 1.25rem auto;
 }
 
 .contact{
-    margin-bottom: 0px;
+    margin-bottom: 0rem;
     background-color:#1687a7 ;
     color: #f6f5f5;
-    padding: 20px;
+    padding: 1.25rem;
     text-align: center;
    }
 
 .contact .text{
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
    .linkedinspan{
     display: inline-block;
     vertical-align: middle;
-    width: 42px;
-    height: 42px;
+    width: 2.625rem;
+    height: 2.625rem;
    }
 
    .linkedinButton{
     display: inline-block;
     background: white;
     color: #444;
-    width: 190px;
-    border-radius: 5px;
+    width: 11.875rem;
+    border-radius: 0.3125rem;
     border: thin solid #888;
-    box-shadow: 1px 1px 1px grey;
+    box-shadow: 0.0625rem 0.0625rem 0.0625rem grey;
     white-space: nowrap;
-    margin-left: 20px;
-    font-size: 0.7em;
+    margin-left: 1.25rem;
+    font-size: 0.7rem;
    }
    .linkedinButton:hover{
        text-decoration: none;

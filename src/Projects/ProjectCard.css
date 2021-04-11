@@ -1,9 +1,9 @@
 .cardblock{
     display: inline-block;
-    height: 250px;
-    width: 400px;
-    margin-left:50px;
-    margin-top: 20px;
+    height: 15.625rem;
+    width: 25rem;
+    margin-left:3.125rem;
+    margin-top: 1.25rem;
     border: #f6f5f5 solid 1px;
 }
 .cardblock:hover{
@@ -23,5 +23,5 @@
     text-align: center;
     color: #276678;
     font-family: Helvetica;
-    font-size: 1.3em;
+    font-size: 1.3rem;
 }

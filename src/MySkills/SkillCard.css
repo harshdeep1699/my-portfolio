@@ -1,11 +1,11 @@
 .skill-card{
-    margin: 60px auto 100px;
-    padding: 10px;
+    margin: 3.75rem auto 6.25rem;
+    padding: 0.625rem;
     width: 70%;
     border-radius: 8px;
 }
 .skill-card hr{
-    border: 2px solid #1687a7;
+    border: 0.125rem solid #1687a7;
     width:7%;
     vertical-align: bottom;
 }
@@ -21,6 +21,6 @@
     margin: 0 auto;
     display: block;
     width: 57%;
-    font-size: 1.3em;
+    font-size: 1.75rem;
     color: #276678;
 }

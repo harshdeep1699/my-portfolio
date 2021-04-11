@@ -3,13 +3,13 @@
     opacity: 0.75;
 }
 .nav-links{
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
     display: inline-block;
     color: white;
     background-color:#1687a7;
-    padding:7px;
-    border-radius: 30px;
+    padding:0.4375rem;
+    border-radius: 1.875rem;
     font-size: 130%;
 }
 .nav-links:hover{
