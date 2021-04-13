@@ -10,7 +10,6 @@ const projectCard=(props)=>{
         </a>
         
     )
-
 }
 
 export default projectCard
